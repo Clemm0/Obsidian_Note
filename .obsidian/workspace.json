@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "96ebb185660e26d3",
-        "type": "split",
+        "id": "2fd3e6f1e7925dbe",
+        "type": "tabs",
         "children": [
           {
-            "id": "2fd3e6f1e7925dbe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d5ec4f571c5dfcdb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Futurismo.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Futurismo"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d04c087a855d83f1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1b32cf7f3de92ab",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\Clemente\\Documents\\obsidian\\Obsidian Notebooks",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "powershell",
-                        "followTheme": true,
-                        "name": "poweshell",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
-                }
-              }
-            ]
+            "id": "d5ec4f571c5dfcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Futurismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Futurismo"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -286,7 +233,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1b32cf7f3de92ab",
+  "active": "8b5ebfe5bd7f545b",
   "lastOpenFiles": [
     "Futurismo.md",
     "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
