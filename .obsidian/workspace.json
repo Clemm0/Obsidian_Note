@@ -18,7 +18,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Futurismo.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -68,7 +68,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                  "title": "Terminal: poweshell"
                 }
               }
             ]
@@ -278,7 +278,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a929cfa0ffbe18e6",
+  "active": "cb4692747f40a5f9",
   "lastOpenFiles": [
     "Futurismo.md",
     "Untitled.canvas",
