@@ -11,14 +11,12 @@
             "id": "cb4692747f40a5f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Futurismo.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Futurismo"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-30 08.39.51.excalidraw"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -225,11 +222,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a929cfa0ffbe18e6",
+  "active": "cb4692747f40a5f9",
   "lastOpenFiles": [
     "Futurismo.md",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
+    "Untitled.canvas",
     "Excalidraw",
     "Pasted image 20260430081047.png",
     "Excalidraw/Drawing 2026-04-30 08.32.19.excalidraw.md",
