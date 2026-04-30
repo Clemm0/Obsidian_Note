@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c66f8a07fccee99",
+        "id": "2fd3e6f1e7925dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4692747f40a5f9",
+            "id": "d5ec4f571c5dfcdb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-30 08.39.51.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -219,13 +217,14 @@
       "smart-connections:Smart Lookup: Open lookup view": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "cb4692747f40a5f9",
+  "active": "d5ec4f571c5dfcdb",
   "lastOpenFiles": [
-    "Futurismo.md",
     "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
+    "Futurismo.md",
     "Untitled.canvas",
     "Excalidraw",
     "Pasted image 20260430081047.png",
