@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "14be819029e8f2ef",
+        "id": "96ebb185660e26d3",
         "type": "split",
         "children": [
           {
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "da6b9f11a9d2823d",
+            "id": "d04c087a855d83f1",
             "type": "tabs",
             "children": [
               {
-                "id": "bb5070e5dc435cd5",
+                "id": "f1b32cf7f3de92ab",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -286,7 +286,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a929cfa0ffbe18e6",
+  "active": "f1b32cf7f3de92ab",
   "lastOpenFiles": [
     "Futurismo.md",
     "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
