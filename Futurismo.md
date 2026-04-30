@@ -5,4 +5,3 @@ Questo è un testo di prova
  - isd
 	- sd
 		- s
-		- s
