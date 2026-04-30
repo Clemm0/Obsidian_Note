@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2fd3e6f1e7925dbe",
-        "type": "tabs",
+        "id": "14be819029e8f2ef",
+        "type": "split",
         "children": [
           {
-            "id": "d5ec4f571c5dfcdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Futurismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Futurismo"
-            }
+            "id": "2fd3e6f1e7925dbe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d5ec4f571c5dfcdb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Futurismo.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Futurismo"
+                }
+              }
+            ]
+          },
+          {
+            "id": "da6b9f11a9d2823d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb5070e5dc435cd5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\Clemente\\Documents\\obsidian\\Obsidian Notebooks",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "powershell",
+                        "followTheme": true,
+                        "name": "poweshell",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -135,6 +188,20 @@
             }
           },
           {
+            "id": "0bb97a059b88d512",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
             "id": "5c515dd94c1deb14",
             "type": "leaf",
             "state": {
@@ -146,21 +213,6 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
-            }
-          },
-          {
-            "id": "0bb97a059b88d512",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Futurismo.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Futurismo"
             }
           },
           {
@@ -204,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -234,10 +286,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a929cfa0ffbe18e6",
+  "active": "bb5070e5dc435cd5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
     "Futurismo.md",
+    "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "Pasted image 20260430081047.png",
