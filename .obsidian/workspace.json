@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -198,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +224,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8b5ebfe5bd7f545b",
+  "active": "cb4692747f40a5f9",
   "lastOpenFiles": [
     "Futurismo.md",
     "Untitled.canvas",
