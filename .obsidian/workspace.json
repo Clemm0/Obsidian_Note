@@ -68,7 +68,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: poweshell"
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
                 }
               }
             ]
@@ -278,7 +278,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cb4692747f40a5f9",
+  "active": "a929cfa0ffbe18e6",
   "lastOpenFiles": [
     "Futurismo.md",
     "Untitled.canvas",
