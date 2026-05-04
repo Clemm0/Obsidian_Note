@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fd3e6f1e7925dbe",
+        "id": "6dfdc6852b9e7f96",
         "type": "tabs",
         "children": [
           {
-            "id": "09c1390f43208e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ai_history_test.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ai_history_test"
-            }
-          },
-          {
-            "id": "ac36ac5dc1932e47",
+            "id": "6a9e3dbb812da550",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Informatica 07"
+            }
+          },
+          {
+            "id": "684b5610b766384f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archipelago.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archipelago"
             }
           }
         ],
@@ -203,12 +203,32 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
             "id": "bfc6d24ddddcba8e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "7d34e928725b6ab9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "bd27ab0b4e5c26e6",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -218,11 +238,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,9 +269,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b5ebfe5bd7f545b",
+  "active": "684b5610b766384f",
   "lastOpenFiles": [
     "Informatica 07.md",
+    "Archipelago.md",
     "Ai_history_test.md",
     "Futurismo.md",
     "ai_history_summary.md",
