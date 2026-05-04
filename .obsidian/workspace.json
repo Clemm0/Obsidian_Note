@@ -238,12 +238,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +268,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "684b5610b766384f",
+  "active": "8b5ebfe5bd7f545b",
   "lastOpenFiles": [
     "Informatica 07.md",
     "Archipelago.md",
