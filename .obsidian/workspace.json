@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5ec4f571c5dfcdb",
+            "id": "09c1390f43208e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Futurismo.md",
-                "mode": "source",
+                "file": "Ai_history_test.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Futurismo"
+              "title": "Ai_history_test"
             }
           }
         ]
@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +237,8 @@
   "active": "a929cfa0ffbe18e6",
   "lastOpenFiles": [
     "Futurismo.md",
+    "ai_history_summary.md",
+    "Ai_history_test.md",
     "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
