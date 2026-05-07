@@ -11,14 +11,16 @@
             "id": "0479e4cae8f5c317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Text/INFORMATICA RIPASSO.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/InformaticaOneNote.pdf",
+                "page": 3,
+                "left": -8,
+                "top": 753,
+                "zoom": 2.0682184602982665
               },
-              "icon": "lucide-file",
-              "title": "INFORMATICA RIPASSO"
+              "icon": "lucide-file-text",
+              "title": "InformaticaOneNote"
             }
           }
         ]
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Text/INFORMATICA RIPASSO.md",
+                "file": "PDFs/InformaticaOneNote.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for INFORMATICA RIPASSO"
+              "title": "Backlinks for InformaticaOneNote"
             }
           },
           {
@@ -204,7 +205,8 @@
               "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -235,12 +237,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0479e4cae8f5c317",
+  "active": "a929cfa0ffbe18e6",
   "lastOpenFiles": [
-    "Untitled.md",
-    "PDFs",
     "Text/INFORMATICA RIPASSO.md",
+    "PDFs/InformaticaOneNote.pdf",
+    "PDFs/Info T.pdf",
+    "Untitled.md",
     "Text/Informatica 07.md",
+    "PDFs",
     "Archipelago.md",
     "Text/ai_history_summary.md",
     "Text/Ai_history_test.md",
