@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac36ac5dc1932e47",
+            "id": "0479e4cae8f5c317",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -234,13 +235,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ac36ac5dc1932e47",
+  "active": "0479e4cae8f5c317",
   "lastOpenFiles": [
+    "Untitled.md",
+    "PDFs",
+    "Text/INFORMATICA RIPASSO.md",
+    "Text/Informatica 07.md",
     "Archipelago.md",
     "Text/ai_history_summary.md",
     "Text/Ai_history_test.md",
-    "Text/Informatica 07.md",
-    "Text/INFORMATICA RIPASSO.md",
     "Text",
     "Futurismo.md",
     "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",

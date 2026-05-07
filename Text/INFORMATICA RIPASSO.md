@@ -1,4 +1,4 @@
-- Le basi di dati
+- ## Le basi di dati
 	- Definizione basi di dati & differenza da archivi normali
 	- Differenza dato & informazione
 	- Integrità, Consistenza (Ridondanza, Incongruenza, Inconsistenza)
@@ -12,8 +12,37 @@
 		- Linguaggi usati
 		- Facili interrogazioni e aumentata velocità di accesso
 	- Modelli per i DB
-		- Fasi di progettazione di una base di dati
+	- Fasi di progettazione di una base di dati
+	- Gli utenti dei DB
+	- Concetto di transazioni
+		- Proprietà ACID
+- ## 5D-01 
+	- Introduzione alle basi di dati
 	- Sistema informatico e sistema informativo
+	- Dati e informazioni
 	- Differenza tra istanza e schema di una tabella
 		- Istanza -> cambia spesso
 		- Schema -> cambia raramente
+	- Il DBMS
+	- Livelli di astrazione dei DBMS
+	- Progettazione di una base di dati
+- ## 5D-02 Diagrammi E/R TUTTO (Da copiare)
+	- Creazione E/R
+	- Cardinalità/Partecipazione
+	- Smontare associazioni ternarie in binarie
+- ## 5D-03 Gerarchie di entità TUTTO (Da copiare)
+	- Gerarchie
+- ## 5D-04 Associazioni riflessive o ricorsive TUTTO (Da Copiare)
+	- Associazioni riflessive
+- ## 5D-05a Modello logico relazionale TUTTO (Da Copiare)
+- ## 5D-05b Modelli logici gerarchico, reticolare, a oggetti TUTTO (Da Copiare)
+- ## 5D-06 Trasformazione E/R in tabelle TUTTO (Da Copiare)
+- ## 5D-07 Vincoli di integrità TUTTO (Da Copiare)
+- ## 5D-08 Normalizzazione TUTTO (Da Copiare)
+	- Forme normali
+	- Prima forma normale
+	- Seconda forma normale
+	- Terza forma normale
+- ## 5D-09 DDL TUTTO (Da Copiare)
+- ## 5D-10 DML TUTTO (Da Copiare)
+- ## 5D-11 QL TUTTO (Da Copiare)
