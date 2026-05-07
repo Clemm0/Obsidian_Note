@@ -1,0 +1,15 @@
+- Le basi di dati
+	- Definizione basi di dati & differenza da archivi normali
+	- Differenza dato & informazione
+	- Integrità, Consistenza (Ridondanza, Incongruenza, Inconsistenza)
+	- La definizione di DMBS & RDBMS
+	- Basi di dati distribuite
+		- Maggiore sicurezza & facilitare sistemazioni
+		- Collegamento con sistemi e reti
+	- DBAdmin
+	- Limiti con gli archivi tradizionali
+	- Organizzazione di archivi tramite basi di dati
+		- Linguaggi usati
+		- Facili interrogazioni e aumentata velocità di accesso
+	- Modelli per i DB
+		- Fasi di progettazione di una base di dati

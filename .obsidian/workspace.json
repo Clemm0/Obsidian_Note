@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMT.md",
+                "file": "Text/INFORMATICA RIPASSO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMT"
+              "title": "INFORMATICA RIPASSO"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Text/INFORMATICA RIPASSO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Backlinks for INFORMATICA RIPASSO"
             }
           },
           {
@@ -202,12 +203,12 @@
               "title": "Todo List"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +236,13 @@
   },
   "active": "ac36ac5dc1932e47",
   "lastOpenFiles": [
+    "Text/ai_history_summary.md",
+    "Text/Ai_history_test.md",
+    "Text/Informatica 07.md",
+    "Text/INFORMATICA RIPASSO.md",
+    "Text",
+    "Futurismo.md",
     "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
-    "SMT.md",
-    "Informatica 07.md",
-    "Ai_history_test.md",
-    "ai_history_summary.md",
     "Untitled.canvas",
     "Excalidraw",
     "Pasted image 20260430081047.png",
