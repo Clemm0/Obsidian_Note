@@ -27,24 +27,24 @@
 	- Il DBMS
 	- Livelli di astrazione dei DBMS
 	- Progettazione di una base di dati
-- ## 5D-02 Diagrammi E/R TUTTO (Da copiare)
+- ## 5D-02 Diagrammi E/R 
 	- Creazione E/R
 	- Cardinalità/Partecipazione
 	- Smontare associazioni ternarie in binarie
-- ## 5D-03 Gerarchie di entità TUTTO (Da copiare)
+- ## 5D-03 Gerarchie di entità 
 	- Gerarchie
-- ## 5D-04 Associazioni riflessive o ricorsive TUTTO (Da Copiare)
+- ## 5D-04 Associazioni riflessive o ricorsive 
 	- Associazioni riflessive
 # Studiare quanto possibile
-- ## 5D-05a Modello logico relazionale TUTTO (Da Copiare)
-- ## 5D-05b Modelli logici gerarchico, reticolare, a oggetti TUTTO (Da Copiare)
-- ## 5D-06 Trasformazione E/R in tabelle TUTTO (Da Copiare)
-- ## 5D-07 Vincoli di integrità TUTTO (Da Copiare)
-- ## 5D-08 Normalizzazione TUTTO (Da Copiare)
+- ## 5D-05a Modello logico relazionale 
+- ## 5D-05b Modelli logici gerarchico, reticolare, a oggetti
+- ## 5D-06 Trasformazione E/R in tabelle
+- ## 5D-07 Vincoli di integrità
+- ## 5D-08 Normalizzazione
 	- Forme normali
 	- Prima forma normale
 	- Seconda forma normale
 	- Terza forma normale
-- ## 5D-09 DDL TUTTO (Da Copiare)
-- ## 5D-10 DML TUTTO (Da Copiare)
-- ## 5D-11 QL TUTTO (Da Copiare)
+- ## 5D-09 DDL
+- ## 5D-10 DML
+- ## 5D-11 QL

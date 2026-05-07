@@ -11,16 +11,14 @@
             "id": "0479e4cae8f5c317",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/InformaticaOneNote.pdf",
-                "page": 3,
-                "left": -8,
-                "top": 753,
-                "zoom": 2.0682184602982665
+                "file": "Text/INFORMATICA RIPASSO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "InformaticaOneNote"
+              "icon": "lucide-file",
+              "title": "INFORMATICA RIPASSO"
             }
           }
         ]
@@ -237,10 +235,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a929cfa0ffbe18e6",
+  "active": "0479e4cae8f5c317",
   "lastOpenFiles": [
-    "Text/INFORMATICA RIPASSO.md",
     "PDFs/InformaticaOneNote.pdf",
+    "Text/INFORMATICA RIPASSO.md",
     "PDFs/Info T.pdf",
     "Untitled.md",
     "Text/Informatica 07.md",
