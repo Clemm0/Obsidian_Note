@@ -13,3 +13,7 @@
 		- Facili interrogazioni e aumentata velocità di accesso
 	- Modelli per i DB
 		- Fasi di progettazione di una base di dati
+	- Sistema informatico e sistema informativo
+	- Differenza tra istanza e schema di una tabella
+		- Istanza -> cambia spesso
+		- Schema -> cambia raramente
