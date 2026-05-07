@@ -1,3 +1,4 @@
+# Studiare per la prossima lezione
 - ## Le basi di dati
 	- Definizione basi di dati & differenza da archivi normali
 	- Differenza dato & informazione
@@ -34,6 +35,7 @@
 	- Gerarchie
 - ## 5D-04 Associazioni riflessive o ricorsive TUTTO (Da Copiare)
 	- Associazioni riflessive
+# Studiare quanto possibile
 - ## 5D-05a Modello logico relazionale TUTTO (Da Copiare)
 - ## 5D-05b Modelli logici gerarchico, reticolare, a oggetti TUTTO (Da Copiare)
 - ## 5D-06 Trasformazione E/R in tabelle TUTTO (Da Copiare)
