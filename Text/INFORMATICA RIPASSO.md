@@ -1,0 +1,50 @@
+# Studiare per la prossima lezione
+- ## Le basi di dati
+	- Definizione basi di dati & differenza da archivi normali
+	- Differenza dato & informazione
+	- Integrità, Consistenza (Ridondanza, Incongruenza, Inconsistenza)
+	- La definizione di DMBS & RDBMS
+	- Basi di dati distribuite
+		- Maggiore sicurezza & facilitare sistemazioni
+		- Collegamento con sistemi e reti
+	- DBAdmin
+	- Limiti con gli archivi tradizionali
+	- Organizzazione di archivi tramite basi di dati
+		- Linguaggi usati
+		- Facili interrogazioni e aumentata velocità di accesso
+	- Modelli per i DB
+	- Fasi di progettazione di una base di dati
+	- Gli utenti dei DB
+	- Concetto di transazioni
+		- Proprietà ACID
+- ## 5D-01 
+	- Introduzione alle basi di dati
+	- Sistema informatico e sistema informativo
+	- Dati e informazioni
+	- Differenza tra istanza e schema di una tabella
+		- Istanza -> cambia spesso
+		- Schema -> cambia raramente
+	- Il DBMS
+	- Livelli di astrazione dei DBMS
+	- Progettazione di una base di dati
+- ## 5D-02 Diagrammi E/R 
+	- Creazione E/R
+	- Cardinalità/Partecipazione
+	- Smontare associazioni ternarie in binarie
+- ## 5D-03 Gerarchie di entità 
+	- Gerarchie
+- ## 5D-04 Associazioni riflessive o ricorsive 
+	- Associazioni riflessive
+# Studiare quanto possibile
+- ## 5D-05a Modello logico relazionale 
+- ## 5D-05b Modelli logici gerarchico, reticolare, a oggetti
+- ## 5D-06 Trasformazione E/R in tabelle
+- ## 5D-07 Vincoli di integrità
+- ## 5D-08 Normalizzazione
+	- Forme normali
+	- Prima forma normale
+	- Seconda forma normale
+	- Terza forma normale
+- ## 5D-09 DDL
+- ## 5D-10 DML
+- ## 5D-11 QL
