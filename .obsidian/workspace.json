@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,7 +234,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0479e4cae8f5c317",
+  "active": "a929cfa0ffbe18e6",
   "lastOpenFiles": [
     "PDFs/InformaticaOneNote.pdf",
     "Text/INFORMATICA RIPASSO.md",
