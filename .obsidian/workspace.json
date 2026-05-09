@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Text/INGLESE WW2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INGLESE WW2"
+            }
+          },
+          {
+            "id": "d9c5660df8a2b33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Text/INFORMATICA RIPASSO.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "INFORMATICA RIPASSO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -208,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,15 +251,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0479e4cae8f5c317",
+  "active": "d9c5660df8a2b33c",
   "lastOpenFiles": [
+    "Text/INGLESE WW2.md",
+    "Text/INFORMATICA RIPASSO.md",
+    "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
+    "Images/IngleseWW2.png",
+    "Pasted image 20260509113115.png",
+    "Images",
     "archipelago_guide.docx",
     "archipelago_guide 2.docx",
     "archipelago_guide 1.docx",
     "PDFs/InformaticaOneNote.pdf",
-    "Text/INFORMATICA RIPASSO.md",
     "PDFs/Info T.pdf",
-    "Untitled.md",
     "Text/Informatica 07.md",
     "PDFs",
     "Archipelago.md",
@@ -250,7 +271,6 @@
     "Text/Ai_history_test.md",
     "Text",
     "Futurismo.md",
-    "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "Pasted image 20260430081047.png",
