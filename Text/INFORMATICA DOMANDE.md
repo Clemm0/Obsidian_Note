@@ -1,0 +1,25 @@
+- **Ridondanza**, **Incongruenza**, **Inconsistenza**
+- Casi in cui la **copia** di un DB è utile
+- **Mirroring DB**
+- Cos'è un **DBMS**
+- **Basi di creazione** di un DB
+- Sistema **Informatico** vs **Informativo**
+- Differenza **Schema** vs **Istanza**
+- Caratteristiche **DBMS**
+- Caratteristiche **DBMS**
+- **Sicurezza** dei dati
+- Divisione dei **Lavori degli utenti** nei DB ___(DBA, ...)
+- **DBMS** & **RDBMS**
+- **Transazioni** & **Accessi Concorrenti** + **Rollback** ___(ft. Threads)
+- Modelli **Diagrammi Logici**
+- **Gerarchie di Entità**
+- **Cardinalità**, **Partecipazione** e **Grado di un Associazione**
+- **Associazioni Riflessive**
+- Differenza **Dato** vs **Informazione**
+- **SQL**
+- **Diagrammi E/R**
+- **Primary Key**, **Foreign Key**, **Candidate Key**
+- **Chiavi Not Null** data partecipazione
+- **Vincoli** e **Normalizzazione**
+- **Normalizzazione** e **Forme Normali** ___(1FN, 2FN, 3FN)
+- 
