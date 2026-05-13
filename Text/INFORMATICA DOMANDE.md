@@ -1,3 +1,4 @@
+# Parte 1
 - **Ridondanza**, **Incongruenza**, **Inconsistenza**
 - Casi in cui la **copia** di un DB è utile
 - **Mirroring DB**
@@ -16,10 +17,10 @@
 - **Cardinalità**, **Partecipazione** e **Grado di un Associazione**
 - **Associazioni Riflessive**
 - Differenza **Dato** vs **Informazione**
+# Parte 2
 - **SQL**
 - **Diagrammi E/R**
 - **Primary Key**, **Foreign Key**, **Candidate Key**
 - **Chiavi Not Null** data partecipazione
 - **Vincoli** e **Normalizzazione**
 - **Normalizzazione** e **Forme Normali** ___(1FN, 2FN, 3FN)
-- 
