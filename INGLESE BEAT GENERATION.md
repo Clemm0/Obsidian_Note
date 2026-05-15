@@ -14,3 +14,5 @@ The **key ideas** of the Beat Generation were:
 - Refusal to conform to traditional middle-class values;
 - Rejection of materialism nad organized religion;
 - Search for alternative ways to find spiritual understanding like Eastern religions, with the emphasis on meditation and communion with nature and mind-altering drugs;
+
+# 
