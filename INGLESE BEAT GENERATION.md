@@ -15,4 +15,19 @@ The **key ideas** of the Beat Generation were:
 - Rejection of materialism nad organized religion;
 - Search for alternative ways to find spiritual understanding like Eastern religions, with the emphasis on meditation and communion with nature and mind-altering drugs;
 
-# 
+# JACK KEROUAC, ON THE ROAD
+#### Prendere dal video 
+
+# PLOT
+- **On the Road** is divided into 5 parts around several journeys that the narrator/main character, *___Sal Paradise__*, makes across the USA and Mexico.
+- The events take part arounf _1947_ and _1950_.
+- In the first part of the novel, Sal meets the man who will become his friend and muse, *__Dean Moriarty__*. Dean will change his life/the way he looks at life. Sal meets Dean after he divorced from his first wife.
+- *__Dean__* is a wild, amoral, glamourous young man. He has a live-for-the-moment philosophy and he has a lust for life, freedom and adventure that inspires and disturbs Sal, who disapproves some of Dean's choices, but cannot compete with his vitality. 
+- In the second part of the novel, a year has passed and we find Sal in Virginia celebrating Christmas with his family. Dean shows up with his new girlfriend Marylou. The three of the m drive to New York, then to New Orleans and finally in San Fancisco. Along the road they meet up with a number of colorful characters, listen to jazz music, get drunk, seduce girls and philosophise about life.
+- The rest of the novel repeats the pattern of _escape - settlement - restlessness - escape_ with variations. The relationship between Sal and Deen become more complicated as Sal gradually learns how erratic and unreliable his friend is. The two drift apart and they are briefly reunited on a trip to Mexico
+- As the novel ends, Dean, having promised to accompany Sal from New York to San Francisco, disappears before Sal and his new wife Laura have the money to make the move. Sal is left to reflect on all the journeys he has made and on the enigmatic, fuggitive figure of Dean Moriarty
+
+# THEMES OF THE NOVEL
+- The **theme of the journey**, a symbol of the escape form the city and from one's own past;
+- **Wandering**: the same group of friends who reveals **a chronic restlessness**, a continuous **desire to get going and keep moving** - they do not always have a destination in mind and find nothing at the end of the journey.
+- **Friendship**: the portrait of an ungraspable, larger-than-life 
