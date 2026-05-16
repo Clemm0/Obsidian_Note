@@ -30,4 +30,13 @@ The **key ideas** of the Beat Generation were:
 # THEMES OF THE NOVEL
 - The **theme of the journey**, a symbol of the escape form the city and from one's own past;
 - **Wandering**: the same group of friends who reveals **a chronic restlessness**, a continuous **desire to get going and keep moving** - they do not always have a destination in mind and find nothing at the end of the journey.
-- **Friendship**: the portrait of an ungraspable, larger-than-life 
+- **Friendship**: the portrait of an ungraspable, larger-than-life character - Dean -, by a more timid but perhaps wiser friend - Sal.
+
+# CHARACTERS
+- The narrator/main character, _Sal Paradise_, who stands for Kerouac himself;
+- _Dean Moriarty_ is based on Neal Cassidy, Kerouac's friend;
+- _Carlo Marx_ is based on Allen Ginsberg (poet of the Beat Generation).
+
+# STYLE
+- The story is a diary-like account of Kerouac's wandering across North America with his friend Neal Cassidy. It lacks a central plot, since its structure is episodic.
+- Kerouac's style is 'spontaneous' and episodic: it is a form in which writing meant expressing whaterver came into one's mind. the unsophisticated language used in this novel - 'hip talk' (linguaggio della strada) - has been identified with the language of jazz musicians.
