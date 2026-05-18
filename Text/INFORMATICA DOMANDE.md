@@ -7,7 +7,6 @@
 - Sistema **Informatico** vs **Informativo**
 - Differenza **Schema** vs **Istanza**
 - Caratteristiche **DBMS**
-- Caratteristiche **DBMS**
 - **Sicurezza** dei dati
 - Divisione dei **Lavori degli utenti** nei DB ___(DBA, ...)
 - **DBMS** & **RDBMS**
@@ -18,7 +17,6 @@
 - **Associazioni Riflessive**
 - Differenza **Dato** vs **Informazione**
 # Parte 2
-- **SQL**
 - **Diagrammi E/R**
 - **Primary Key**, **Foreign Key**, **Candidate Key**
 - **Chiavi Not Null** data partecipazione
