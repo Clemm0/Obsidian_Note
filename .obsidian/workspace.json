@@ -25,16 +25,14 @@
             "id": "73f78d7b53e22ebe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/InformaticaOneNote.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 34,
-                "zoom": 2.068218460298267
+                "file": "Text/INFORMATICA RIPASSO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "InformaticaOneNote"
+              "icon": "lucide-file",
+              "title": "INFORMATICA RIPASSO"
             }
           }
         ],
@@ -148,7 +146,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etichette"
+              "title": "Tags"
             }
           },
           {
@@ -240,12 +238,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,14 +268,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a929cfa0ffbe18e6",
+  "active": "8b5ebfe5bd7f545b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Text/INFORMATICA RIPASSO.md",
+    "Text/Informatica 07.md",
     "Text/Ai_history_test.md",
     "PDFs/InformaticaOneNote.pdf",
+    "Untitled.md",
+    "Text/INFORMATICA RIPASSO.md",
     "Text/ai_history_summary.md",
-    "Text/Informatica 07.md",
     "Text",
     "PDFs",
     "archipelago_guide 2.docx",
