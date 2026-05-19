@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni MD.md",
+                "file": "Text/INGLESE WW2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funzioni MD"
+              "title": "INGLESE WW2"
             }
           }
         ],
@@ -252,8 +252,8 @@
   },
   "active": "a929cfa0ffbe18e6",
   "lastOpenFiles": [
-    "Appunti interrogazione informatica.md",
     "Funzioni MD.md",
+    "Appunti interrogazione informatica.md",
     "Text/INFORMATICA DOMANDE.md",
     "Text/INFORMATICA RIPASSO.md",
     "Text/INGLESE WW2.md",
