@@ -8,9 +8,9 @@
 - Differenza **Schema** vs **Istanza**
 - Caratteristiche **DBMS**
 - **Sicurezza** dei dati
-- Divisione dei **Lavori degli utenti** nei DB ___(DBA, ...)
+- Divisione dei **Lavori degli utenti** nei DB ___(DBA, ...)__
 - **DBMS** & **RDBMS**
-- **Transazioni** & **Accessi Concorrenti** + **Rollback** ___(ft. Threads)
+- **Transazioni** & **Accessi Concorrenti** + **Rollback** ___(ft. Threads)__
 - Modelli **Diagrammi Logici**
 - **Gerarchie di Entità**
 - **Cardinalità**, **Partecipazione** e **Grado di un Associazione**
@@ -21,4 +21,4 @@
 - **Primary Key**, **Foreign Key**, **Candidate Key**
 - **Chiavi Not Null** data partecipazione
 - **Vincoli** e **Normalizzazione**
-- **Normalizzazione** e **Forme Normali** ___(1FN, 2FN, 3FN)
+- **Normalizzazione** e **Forme Normali** ___(1FN, 2FN, 3FN)__
