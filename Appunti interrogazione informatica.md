@@ -54,3 +54,4 @@
 		* _Left Join_
 		* _Right Join_
 	* _Self Join_
+* 
