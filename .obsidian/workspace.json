@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -250,7 +249,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a600efd77aa6234a",
+  "active": "a929cfa0ffbe18e6",
   "lastOpenFiles": [
     "Text/INGLESE WW2.md",
     "Text/INGLESE BEAT GENERATION.md",
