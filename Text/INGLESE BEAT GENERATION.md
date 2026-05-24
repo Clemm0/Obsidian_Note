@@ -1,4 +1,4 @@
-si# BEAT GENERATION
+# BEAT GENERATION
 - They where young people who did not like society where success had become the object of life and was mesured by the things you can buy; where happiness was associated with wealth and social prestige;
 - Some become rebels and defined the middle-class conservative values and lifestyle;
 - Their heroes were characters like Marlon Brando and James Dean;
