@@ -52,9 +52,10 @@
 Le aree in rosso chiaro indicano i periodi di crisi:
 - **2000-2002**: Crisi dot-com -- il Sandisk perde oltre il 30%, mentre l'oro inizia a crescere
 - **2008-2009**: Crisi finanziaria -- il Sandisk crolla del -38,5% in un solo anno, l'oro invece sale del +27%
-- **2020**: COVID-19 -- breve shock, poi rapida ripresa del mercato azionario
+- **2020**: COVID-19 - breve shock, poi rapida ripresa del mercato azionario
   
 **Osservazioni chiave:**
 - L'**oro** e' stato il vincitore assoluto: da 1.000€ a oltre 11.000€, dimostrando di essere un rifugio sicuro nelle crisi
 - Il **Sandisk** ha sofferto le crisi ma ha recuperato fortemente, specialmente dal 2019 in poi
 - I **BTP** sono stati i piu' stabili, ma anche i meno redditizi: una crescita lenta e costante, utile per chi cerca sicurezza
+
