@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -224,12 +223,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,10 +253,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d83211fcb5718b1",
+  "active": "8b5ebfe5bd7f545b",
   "lastOpenFiles": [
-    "Funzioni MD.md",
+    "Images/GPOI_Graph1.png",
+    "Images/IngleseWW2.png",
+    "PDFs/InformaticaOneNote.pdf",
     "Text/GPOI es1.md",
+    "Funzioni MD.md",
     "Untitled.md",
     "Appunti interrogazione informatica.md",
     "Text/INFORMATICA DOMANDE.md",
@@ -266,11 +267,9 @@
     "Text/INGLESE BEAT GENERATION.md",
     "Text/INGLESE WW2.md",
     "Archipelago.md",
-    "Images/IngleseWW2.png",
     "Images",
     "Text/Informatica 07.md",
     "Text/Ai_history_test.md",
-    "PDFs/InformaticaOneNote.pdf",
     "Text/ai_history_summary.md",
     "Text",
     "PDFs",

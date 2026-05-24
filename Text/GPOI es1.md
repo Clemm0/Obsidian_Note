@@ -1,10 +1,8 @@
-## Simulazione 01 — Il viaggio nel tempo: investire nell’anno 2000
+## Simulazione 01 - Il viaggio nel tempo: investire nell’anno 2000
 
 **Periodo:** 1° gennaio 2000 → 2026  
 **Capitale iniziale:** 1.000 €  
 **Strumenti scelti:** Oro, Amazon, BTP Italia  
-
-**Metodo:** Dati storici reali da fonti pubbliche (Oro: fixing London in EUR; Amazon: quotazioni storiche NASDAQ; BTP Italia: rendimenti ISTAT + Banca d’Italia)
 
 ---
 
@@ -44,20 +42,12 @@
 
 ### Risultato finale
 
-| Strumento | Valore finale 2026 |
-|-----------|--------------------|
-| Oro | 11.397,06 € |
-| Amazon | 318.770,00 € |
-| BTP Italia | 2.395,77 € |
+| Strumento  | Valore finale 2026 | Incremento % |
+| ---------- | ------------------ | ------------ |
+| Oro        | 11.397,06 €        | +1.039,7%    |
+| Amazon     | 318.770,00 €       | +31.777,0%   |
+| BTP Italia | 2.395,77 €         | +139,6%      |
 
 ---
 
-### Chiamata per grafico (Excel)
-
-Inserire -> Grafico a linee  
-Selezionare: Anni (colonna A), Valore Oro, Valore Amazon, Valore BTP  
-Asse Y secondario per Amazon (tasto destro sulla linea Amazon -> Formatta serie -> Asse secondario)  
-Evidenziare **2001, 2008, 2020** con formato colore di sfondo o linee verticali
-
-**Funzione Excel per valore investito:**  
-= (Capitale_iniziale / Prezzo_anno_zero) * Prezzo_anno_corrente
+![[GPOI_Graph1.png|980]]
