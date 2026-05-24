@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4e7e2c777c26103a",
@@ -227,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +255,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b5ebfe5bd7f545b",
+  "active": "0d83211fcb5718b1",
   "lastOpenFiles": [
     "Images/GPOI_Graph1.png",
     "Images/IngleseWW2.png",
