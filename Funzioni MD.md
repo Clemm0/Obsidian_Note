@@ -39,9 +39,9 @@ blocco di codice
 ![testo alt](url-immagine.png)
 ![[immagine.png]]                     (solo Obsidian)
 
-| colonna 1 | colonna 2 |
-|-----------|-----------|
 | cella     | cella     |
+| --------- | --------- |
+| colonna 1 | colonna 2 |
 
 ^id-blocco    (riferimento a blocco, solo Obsidian)
 

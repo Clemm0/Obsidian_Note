@@ -42,3 +42,16 @@
    * **MAX** — restituisce il valore massimo di una colonna
    * **SUM** — restituisce la somma dei valori di una colonna
    * **AVG** — restituisce la media dei valori di una colonna
+
+* **La Proiezone**
+	* _Altera il grado_
+* **La Restrizione**
+	* _Altera la cardinalità_
+* **JOIN**
+	* _Cross Join_ o _Join_
+	* _Inner Join_ o 
+	* _Outer Join_
+		* _Left Join_
+		* _Right Join_
+	* _Self Join_
+* 

@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8607b42df0208448",
+        "id": "af3bcc60b21668d7",
         "type": "tabs",
         "children": [
           {
-            "id": "0d83211fcb5718b1",
+            "id": "a600efd77aa6234a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text/GPOI es1.md",
+                "file": "Text/INGLESE BEAT GENERATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "GPOI es1"
+            }
+          },
+          {
+            "id": "c094f1f94076d297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text/INGLESE WW2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INGLESE WW2"
             }
           }
         ]
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PDFs/InformaticaOneNote.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Backlinks for InformaticaOneNote"
             }
           },
           {
@@ -131,7 +146,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etichette"
             }
           },
           {
@@ -188,32 +203,12 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           },
           {
             "id": "bfc6d24ddddcba8e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "7d34e928725b6ab9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "bd27ab0b4e5c26e6",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -262,24 +257,29 @@
     "Text/INFORMATICA RIPASSO.md",
     "Text/INGLESE BEAT GENERATION.md",
     "Text/INGLESE WW2.md",
-    "Archipelago.md",
+    "Text/INGLESE BEAT GENERATION.md",
+    "Text/INFORMATICA DOMANDE.md",
+    "Appunti interrogazione informatica.md",
+    "Text/INFORMATICA RIPASSO.md",
+    "Untitled.md",
     "Images/IngleseWW2.png",
-    "Images",
+    "INGLESE BEAT GENERATION.md",
     "Funzioni MD.md",
     "Text/Informatica 07.md",
-    "Text/Ai_history_test.md",
-    "PDFs/InformaticaOneNote.pdf",
-    "Text/ai_history_summary.md",
-    "Text",
-    "PDFs",
+    "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
+    "Pasted image 20260509113115.png",
+    "Images",
+    "archipelago_guide.docx",
     "archipelago_guide 2.docx",
     "archipelago_guide 1.docx",
-    "archipelago_guide.docx",
-    "Informatica 07.md",
-    "Ai_history_test.md",
+    "PDFs/InformaticaOneNote.pdf",
+    "PDFs/Info T.pdf",
+    "PDFs",
+    "Archipelago.md",
+    "Text/ai_history_summary.md",
+    "Text/Ai_history_test.md",
+    "Text",
     "Futurismo.md",
-    "ai_history_summary.md",
-    "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "Pasted image 20260430081047.png",
