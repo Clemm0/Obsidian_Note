@@ -5,7 +5,9 @@
 - utilizza metodologia CRUD
 - Form metodo GET & POST
 - Array assocativi
-
+- perchè usare pagine lato client o lato server
+- motore PHP e pagine
+- 
 # Funzioni di base
 - require_once(config.php);
 - if(isset($\_POST[\'a\'])){}
