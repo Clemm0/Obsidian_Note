@@ -15,7 +15,7 @@ La sede operativa è distribuita su due piani collegati da uno switch centrale (
 
 ---
 
-## 2. Comunicazione sede ↔ personale in loco
+## 2. Comunicazione sede - personale in loco
 
 Il personale in loco (validatori, assistenti, pronto intervento) usa **smartphone o tablet** con connessione **4G/5G** alla rete dati mobile.
 
