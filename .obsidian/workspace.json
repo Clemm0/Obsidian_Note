@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4676a7d0a54778ea",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appunti per Gioco.md",
+                "file": "Funzioni MD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Appunti per Gioco"
+              "title": "Backlinks for Funzioni MD"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appunti per Gioco.md",
+                "file": "Funzioni MD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Appunti per Gioco"
+              "title": "Outgoing links from Funzioni MD"
             }
           },
           {
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appunti per Gioco.md",
+                "file": "Funzioni MD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Appunti per Gioco"
+              "title": "Outline of Funzioni MD"
             }
           },
           {
@@ -202,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -228,14 +227,14 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ca2ee13e792f731",
+  "active": "a0f4630bcd0d8df9",
   "lastOpenFiles": [
     "Funzioni MD.md",
+    "Appunti per Gioco.md",
     "conflict-files-obsidian-git.md"
   ]
 }
