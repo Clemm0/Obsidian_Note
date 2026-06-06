@@ -3,5 +3,7 @@
   "readableLineLength": false,
   "rightToLeft": false,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "tabSize": 3,
+  "showLineNumber": false
 }
