@@ -52,3 +52,12 @@ I totem sono distribuiti sull'intera area del comune, quindi non sempre raggiung
 - `POST /command` con body JSON → invia un comando (es. `{"action":"open"}` per barriera)
 - Autenticazione con token (es. Bearer token) per sicurezza
 - Esempio: `POST http://192.168.x.x/barrier {"action":"lower"}`
+
+
+### Domande da seguire
+- Che tecnologie uso?
+- Cosa è questa tecnologia?
+- Perchè uso queste tecnologie?
+- Dove uso queste tecnologie?
+- Pro e contro?
+- Perchè uso queste anche dati i contro?
