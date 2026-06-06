@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f166422de0d87393",
+    "id": "dc8d3c4da56c1309",
     "type": "split",
     "children": [
       {
-        "id": "a2d401059ea41e2b",
+        "id": "9756bb26ccf2c703",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca2ee13e792f731",
+            "id": "e767530e05d0e2e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,28 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5a3bb922a38d2b3d",
+    "id": "d2fa81ea284e28cc",
     "type": "split",
     "children": [
       {
-        "id": "fc8713cf001e207b",
+        "id": "f85755faed2d9a69",
         "type": "tabs",
         "children": [
           {
-            "id": "9248519a17a957b8",
+            "id": "bcbbdaa7ec15d643",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "6253edf637526b57",
+            "id": "2e9da145c92e9fa6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "bf08fc530609603f",
+            "id": "1ab8fc6c07aa8407",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
-    "id": "4676a7d0a54778ea",
+    "id": "4e7e2c777c26103a",
     "type": "split",
     "children": [
       {
-        "id": "bcd05b09b7a2709e",
+        "id": "e84ab92c5c05f40d",
         "type": "tabs",
         "children": [
           {
-            "id": "235f8c5d20afc64e",
+            "id": "0f829c6f7ef98bbd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni MD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Funzioni MD"
+              "title": "Riferimenti"
             }
           },
           {
-            "id": "b599986cd4387754",
+            "id": "58f71bce06260877",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni MD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Funzioni MD"
+              "title": "Collegamenti in uscita"
             }
           },
           {
-            "id": "77a61cc9d8dee2bc",
+            "id": "bb54ce5fce3bb0bc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +136,21 @@
             }
           },
           {
-            "id": "907fa1d8b5059d0c",
+            "id": "0bb97a059b88d512",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5c515dd94c1deb14",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,22 +164,17 @@
             }
           },
           {
-            "id": "eb76a48fc5aae01a",
+            "id": "8b5ebfe5bd7f545b",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Funzioni MD.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Funzioni MD"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "a0f4630bcd0d8df9",
+            "id": "a929cfa0ffbe18e6",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -177,7 +184,37 @@
             }
           },
           {
-            "id": "dd6e18ac51245af4",
+            "id": "7d00112472b8b2e3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "bfc6d24ddddcba8e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "7d34e928725b6ab9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "bd27ab0b4e5c26e6",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -187,21 +224,22 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "bases:Create new base": true,
+      "daily-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -212,14 +250,52 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
       "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ca2ee13e792f731",
+  "active": "e767530e05d0e2e1",
   "lastOpenFiles": [
-    "Funzioni MD.md",
+    "Text/INGLESE WW2.md",
+    "Text/Sistemi Scaletta Supp2024.md",
+    "Text/PHP.md",
+    "Text/Appunti interrogazione informatica.md",
+    "PDFs/A038_SUP24.pdf",
     "Appunti per Gioco.md",
-    "conflict-files-obsidian-git.md"
+    "Text/GPOI es4.md",
+    "Text/GPOI es1.md",
+    "Images/GPOI_Graph1.png",
+    "Images/IngleseWW2.png",
+    "PDFs/InformaticaOneNote.pdf",
+    "Funzioni MD.md",
+    "Untitled.md",
+    "Appunti interrogazione informatica.md",
+    "Text/INFORMATICA DOMANDE.md",
+    "Text/INFORMATICA RIPASSO.md",
+    "Text/INGLESE BEAT GENERATION.md",
+    "Archipelago.md",
+    "Images",
+    "Text/Informatica 07.md",
+    "Text/Ai_history_test.md",
+    "Text/ai_history_summary.md",
+    "Text",
+    "PDFs",
+    "archipelago_guide 2.docx",
+    "archipelago_guide 1.docx",
+    "archipelago_guide.docx",
+    "Informatica 07.md",
+    "Ai_history_test.md",
+    "Futurismo.md",
+    "ai_history_summary.md",
+    "Excalidraw/Drawing 2026-04-30 08.39.51.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "Pasted image 20260430081047.png",
+    "Excalidraw/Drawing 2026-04-30 08.32.19.excalidraw.md",
+    "2026-04-30.md",
+    "Prova.md",
+    "Senza nome.canvas",
+    "Benvenuto.md"
   ]
 }
