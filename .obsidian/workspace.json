@@ -250,7 +250,6 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false
     }
