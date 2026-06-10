@@ -1,19 +1,19 @@
 # Tags:
 ### _RPG, Roguelite, Dungeon Crawler, Looter, Open World, Lite MMO_
 
+# Lore
+Placeholder
+
 # Ideas
 ## Character Races:
 - __Commoner__
 	- _Subtext_
-		- Just a balanced guy, liked by it's townfolks, and possesses a balanced knowledge on its items and capacities 
+		- Just a balanced guy, liked by it's townfolks, and possesses a average knowledge on its items and capacities 
 	- _Skills_
 		- "Better deals"
 			- His townfolk, the one who he helped during his permanence can reward him with better help and request less coins since they trust him, giving up to 20% off
 		- "Friend of mine"
 			- Whenever he is in a foreign zone he manages to establish contacts faster with other folks
-	- _Equipment_
-		- Placeholder
-			- Description
 	- _Traits_
 		- His muscles has grown stronger after years of hard work and training
 			- +15kg Carry capacity
@@ -28,6 +28,9 @@
 	- _Skill_
 		- "Taunting aura"
 			- Taunts all enemies in a certain zone to himself reducing damage taken by 10% for 15 seconds
+	- _Equipments_
+		- Heavy Shield
+			- A massive shield who only few can carry it, and even less wield it
 	- _Traits_
 		- Being the muscle wall that is he takes less damage, carries more, but his strenght and eyesight aren't that good
 			- +5% Defence (Increasing every few levels)
@@ -159,4 +162,6 @@
 	- [ ] Epic
 	- [ ] Legendary
 	- [ ] Elite
+- [ ] NPCS
+	- [ ] Placeholder
 - [ ] 
