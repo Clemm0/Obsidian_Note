@@ -8,7 +8,7 @@ Placeholder
 ## Character Races:
 - **Commoner**
 	- **Subtext:**  
-	    The quintessential inhabitant of settled lands. Commoners are the backbone of society, known for their resilience, adaptability, and deep connection to their communities. They may not possess inherent magical talents or fearsome martial prowess, but their strength lies in their resourcefulness, their understanding of the world around them, and the bonds they forge. They are the farmers, the artisans, the merchants, and the laborers – individuals who build and sustain civilization through honest work and unwavering spirit.
+		- The quintessential inhabitant of settled lands. Commoners are the backbone of society, known for their resilience, adaptability, and deep connection to their communities. They may not possess inherent magical talents or fearsome martial prowess, but their strength lies in their resourcefulness, their understanding of the world around them, and the bonds they forge. They are the farmers, the artisans, the merchants, and the laborers – individuals who build and sustain civilization through honest work and unwavering spirit.
 	- **Skills:**	    
 	    - **"Better Deals"**	        
 	        - _Effect:_ Your history of helping your community and your general trustworthiness grant you favorable treatment. Merchants and service providers in allied settlements offer you up to 20% off on goods and services.
@@ -32,9 +32,10 @@ Placeholder
 	            - **+1 to STR, CON, and CHA:** Your physical labor bolsters your Strength and Constitution, while your community involvement and trustworthiness enhance your Charisma.
 	            - **-5% Damage Dealt (all types):** You are not a trained warrior; your attacks lack the specialized ferocity of combatants, reflecting a lower base **Strength (STR)** or **Dexterity (DEX)** contribution to combat prowess compared to specialized classes.
 	            - **-5% Healing Received:** While resilient, your body is accustomed to the natural healing of everyday life. Potent magical or external healing is slightly less impactful, suggesting a lower natural affinity for magical restorative energies, thus slightly reducing its effectiveness.
+- **Placeholder**
 
 ## Character Classes:
-- __Tank__
+- **Tank**
 	- _Subtext_
 		- Be the barricade your party needs, absorbing damage and controlling enemy aggression.
 	- _Skill_
@@ -55,7 +56,7 @@ Placeholder
 			- -1.5 sec Sprint (Shorter sprint duration)
 			- -20% sight distance
 			- -10% melee damage dealt
-- __Warrior__
+- **Warrior**
 	- _Subtext_
 		- A frontline combatant, skilled with various weapons and armor, balancing offense and defense.
 	- _Skills_
@@ -73,7 +74,7 @@ Placeholder
 		- Proficient in combat, adaptable to different fighting styles.
 			- +10% Melee Damage
 			- +5% Defense
-- __Mage__
+- **Mage**
 	- _Subtext_
 		- Wields arcane energies to unleash devastating spells from a distance.
 	- _Skills_
@@ -93,7 +94,7 @@ Placeholder
 			- +10% Spell Power
 			- -15% Max Health
 			- -10% Defense
-- __Healer__
+- **Healer**
 	- _Subtext_
 		- Dedicated to restoring health and providing support to allies.
 	- _Skills_
@@ -112,7 +113,7 @@ Placeholder
 			- +15 Wisdom
 			- +10% Healing Output
 			- +5% Max Health
-- __Cleric__
+- **Cleric**
 	- _Subtext_
 		- A divine warrior who blends martial skill with holy magic, capable of both offense and support.
 	- _Skills_
@@ -132,7 +133,7 @@ Placeholder
 			- +10 Wisdom
 			- +5% Melee Damage
 			- +5% Healing Output
-- __Necromant__
+- **Necromant**
 	- _Subtext_
 		- Commands the forces of death, raising undead minions and draining life from foes.
 	- _Skills_
@@ -152,7 +153,7 @@ Placeholder
 			- +10% Minion Damage
 			- -10% Max Health
 			- -5% Defense
-- __Guardian__
+- **Guardian**
 	- _Subtext_
 		- A protector who uses defensive abilities and crowd control to shield allies and control the battlefield.
 	- _Skills_
@@ -172,7 +173,7 @@ Placeholder
 			- +5 Strength
 			- +10% Defense
 			- +5% Max Health
-- __Rogue__
+- **Rogue**
 	- _Subtext_
 		- Masters of stealth, deception, and precision strikes, excelling at exploiting enemy weaknesses.
 	- _Skills_
@@ -191,7 +192,7 @@ Placeholder
 			- +15 Dexterity
 			- +10% Critical Hit Chance
 			- +5% Movement Speed
-- __Ranger__
+- **Ranger**
 	- _Subtext_
 		- Skilled in ranged combat and survival, adept at tracking and fighting in the wilderness.
 	- _Skills_
@@ -211,7 +212,7 @@ Placeholder
 			- +5 Wisdom
 			- +10% Ranged Damage
 			- +5% Movement Speed
-- __Balanced__
+- **Balanced**
 	- _Subtext_
 		- A jack-of-all-trades, capable of adapting to various situations with a mix of offensive and defensive capabilities.
 	- _Skills_
@@ -228,6 +229,7 @@ Placeholder
 	- _Traits_
 		- Well-rounded and adaptable, without excelling in any single area.
 			- +2 to all primary stats
+
 ## Player Stats
 - **Strength (STR):**
     - **Primary Use:** Affects melee damage, carrying capacity, and the effectiveness of heavy armor.
@@ -249,45 +251,45 @@ Placeholder
     - **Secondary Effects:** Can influence the success rate of persuasion checks or the loyalty of summoned minions.
 
 ## Stats Effects
-- **Health (HP):**
-    - **Source:** Base HP + CON scaling + Item Modifiers + Buffs.
-    - **Effect:** Represents the player's life force. Reaching 0 HP results in incapacitation or death (depending on game mechanics).
+- **Health:**
+    - **Source:** Base HP + CON scaling + Item Modifiers + Buffs
+    - **Effect:** Represents the player's life force. Reaching 0 HP results in incapacitation or death (depending on party size).
 - **Stamina:**
-    - **Source:** Base Stamina + CON scaling + Item Modifiers + Buffs.
+    - **Source:** Base Stamina + CON scaling + Item Modifiers + Buffs
     - **Effect:** Used for actions like sprinting, dodging, blocking, and certain special attacks or abilities. Regenerates over time.
-- **Mana/Energy/Focus:**
-    - **Source:** Base Mana + INT/WIS scaling + Item Modifiers + Buffs.
+- **Mana:**
+    - **Source:** Base Mana + INT/WIS scaling + Item Modifiers + Buffs
     - **Effect:** The resource pool for casting spells or using special abilities. Regenerates over time or through specific means.
 - **Defense:**
-    - **Source:** Base Defense + Armor Rating + Item Modifiers + Buffs.
+    - **Source:** Base Defense + Item Modifiers + Buffs + Armor Rating
     - **Effect:** Reduces incoming physical damage. The exact calculation can vary (flat reduction, percentage reduction, etc.).
-- **Attack Power (Melee/Ranged):**
-    - **Source:** Base Weapon Damage + STR/DEX scaling + Item Modifiers + Buffs.
+- **Attack Power:**
+    - **Source:** Base Weapon Damage + STR/DEX scaling + Item Modifiers + Buffs
     - **Effect:** Determines the base damage dealt by physical attacks.
 - **Spell Power:**
-    - **Source:** Base Spell Power + INT/WIS scaling + Item Modifiers + Buffs.
+    - **Source:** Base Spell Power + INT/WIS scaling + Item Modifiers + Buffs
     - **Effect:** Increases the damage or effectiveness of spells.
 - **Movement Speed:**
-    - **Source:** Base Speed + Item Modifiers + Buffs.
+    - **Source:** Base Speed + Item Modifiers + Buffs
     - **Effect:** Determines how fast the player character moves. Can be broken down into Walk Speed and Sprint Speed.
 - **Carry Capacity:**
-    - **Source:** Base Capacity + STR scaling + Item Modifiers.
+    - **Source:** Base Capacity + STR scaling + Item Modifiers
     - **Effect:** The maximum weight of items the player can carry without suffering penalties (e.g., reduced movement speed, increased stamina drain).
 - **Critical Hit Chance:**
-    - **Source:** Base Chance + DEX scaling + Item Modifiers + Buffs.
-    - **Effect:** The chance to deal bonus damage (e.g., 150% or 200% of normal damage) on an attack.
+    - **Source:** Base Chance + DEX scaling + Item Modifiers + Buffs
+    - **Effect:** The chance to deal bonus damage (e.g., 150% or 200% of normal damage, depending on weapon) on an attack.
 - **Armor Penetration:**
-    - **Source:** Base Penetration + Item Modifiers + Buffs.
+    - **Source:** Base Penetration + Item Modifiers + Buffs
     - **Effect:** Reduces the effectiveness of enemy armor, allowing attacks to deal more damage.
 - **Magic Resistance:**
-    - **Source:** Base Resistance + Item Modifiers + Buffs.
+    - **Source:** Base Resistance + Item Modifiers + Buffs
     - **Effect:** Reduces incoming magical damage. Can be elemental or general.
 - **Sight Distance:**
-    - **Source:** Base Distance + Item Modifiers + Buffs.
+    - **Source:** Base Distance + Item Modifiers + Buffs
     - **Effect:** Determines how far the player can see. Affects detection of enemies, traps, and interactive objects.
 
 ## Different Dungeons
-- __The Sunken Temple__
+- **The Sunken Temple**
 	- _Subtext_
 		- An ancient temple submerged by rising waters, now inhabited by aquatic monstrosities and forgotten spirits. Features water-based puzzles and environmental hazards.
 	- _Enemies_
@@ -296,7 +298,7 @@ Placeholder
 		- Areas that require swimming or diving.
 		- Pressure plates that activate water currents.
 		- Limited visibility in murky water.
-- __The Obsidian Mines__
+- **The Obsidian Mines**
 	- _Subtext_
 		- A treacherous network of tunnels deep within a volcanic mountain. Filled with molten rock, dangerous creatures, and valuable, unstable ores.
 	- _Enemies_
@@ -305,7 +307,7 @@ Placeholder
 		- Areas with extreme heat that damage players over time.
 		- Gaps that require careful platforming over lava.
 		- Explosive ore veins that can be triggered.
-- __The Whispering Woods__
+- **The Whispering Woods**
 	- _Subtext_
 		- An enchanted forest where the trees themselves seem to watch and whisper. Illusions and fey creatures make navigation perilous.
 	- _Enemies_
@@ -316,19 +318,19 @@ Placeholder
 		- Plants that can either heal or harm the player.
 
 ## Biomes
-- __Plains__
+- **Plains**
 	- _Subtext_
 		- The usual meadows and rolling hills, dotted with farms and small villages.
 	- _Effects_
 		- Mild climate. No significant buffs or debuffs. Standard degradation rate for items.
-- __Icy Peaks__
+- **Snowy Tundra**
 	- _Subtext_
 		- The frigid zones of the north lands, mostly inhabited by hardy creatures and resilient flora.
 	- _Effects_
 		- Freezing weather: Players take minor damage over time unless near a heat source (like a campfire).
 		- Lighting campfires is harder and those last less due to the humidity and cold.
 		- Item degradation rate is slightly increased due to extreme cold.
-- __Scorched Desert__
+- **Scorched Desert**
 	- _Subtext_
 		- Vast expanses of sand and rock, baked by an unrelenting sun. Water is scarce, and survival is a constant challenge.
 	- _Effects_
@@ -336,49 +338,182 @@ Placeholder
 		- Dehydration: Players need to manage water supplies to avoid debuffs to stamina and speed.
 		- Item degradation rate is significantly increased due to heat and sand.
 
-## Rarity
-- __Common__
-	- Drop Chance: [55%]
-	- Modifiers:
-		- Natural Main Stat: 90% Base Main Stat
-		- Natural Quality: Min 10% - Max 70%
-- __Uncommon__
-	- Drop Chance: [25%]
-	- Modifiers:
-		- Natural Main Stat: 100% Base Main Stat
-		- Natural Quality: Min 20% - Max 70%
-- __Rare__
-	- Drop Chance: [12%]
-	- Modifiers:
-		- Natural Main Stat: 110% Base Main Stat
-		- Natural Quality: Min 30% - Max 80%
-- __Epic__
-	- Drop Chance: [5%]
-	- Modifiers:
-		- Natural Main Stat: 125% Base Main Stat
-		- Natural Quality: Min 35% - Max 90%
-- __Legendary__
-	- Drop Chance: [2%]
-	- Modifiers:
-		- Natural Main Stat: 150% Base Main Stat
-		- Natural Quality: Min 50% - Max 95%
-- __Elite__
-	- Drop Chance: [1%]
-	- Modifiers:
-		- Natural Main Stat: 175% Base Main Stat
-		- Natural Quality: Min 60% - Max 100%
+## Rarity Tiers
+* **Common**
+    * _Drop Chance:_ [55%]
+    * _Modifiers:_
+        * _Natural Main Stat:_ 90% Base Main Stat
+        * _Natural Quality:_ Min 10% - Max 70%
+* **Uncommon**
+    * _Drop Chance:_ [25%]
+    * _Modifiers:_
+        * _Natural Main Stat:_ 100% Base Main Stat
+        * _Natural Quality:_ Min 20% - Max 70%
+* **Rare**
+    * _Drop Chance:_ [12%]
+    * _Modifiers:_
+        * _Natural Main Stat:_ 110% Base Main Stat
+        * _Natural Quality:_ Min 30% - Max 80%
+* **Epic**
+    * _Drop Chance:_ [5%]
+    * _Modifiers:_
+        * _Natural Main Stat:_ 125% Base Main Stat
+        * _Natural Quality:_ Min 35% - Max 90%
+* **Legendary**
+    * _Drop Chance:_ [2%]
+    * _Modifiers:_
+        * _Natural Main Stat:_ 150% Base Main Stat
+        * _Natural Quality:_ Min 50% - Max 99%
+* **Elite**
+    * _Drop Chance:_ [1%]
+    * _Modifiers:_
+        * _Natural Main Stat:_ 175% Base Main Stat
+        * _Natural Quality:_ Min 60% - Max 100%
 
-## Quality
+## Quality Levels
+* **0% Quality:**
+    * _Effect:_ Item provides **negative stats**.
+    - _Degradation:_ None.
+    * _Purpose:_ Usable but not recomanded, requires repair.
+* **1% to 99% Quality:**
+    * _Effect:_ Item provides **scaled stats** 
+    * _Degradation:_ Degrades with use.
+    * _Purpose:_ Standard usable state, requires maintenance.
+* **100% Quality:**
+    * _Effect:_ Item provides its **maximum potential stats**.
+    * _Degradation:_ Degrades with use, potentially at a slower rate.
+    * _Purpose:_ Item at peak performance.
 
-- **0% Quality (Broken):**
-    - **Effect:** The item provides **negative stats** (e.g., -10% damage, -5% defense, -20% speed).
-    - **Degradation:** The item **will not degrade further**. It is functionally useless for combat but can be held indefinitely without worsening.
-    - **Purpose:** Acts as a "broken" state that prevents further loss but offers no benefit. It signifies an item that needs significant attention.
-- **1% to 99% Quality (Damaged):**
-    - **Effect:** The item provides **scaled stats**. For example, an item at 100% quality might grant +100% power. At 50% quality, it would grant +50% power. At 1% quality, it would grant +1% power.
-    - **Degradation:** The item **will degrade over time** with use. The rate of degradation might be influenced by player actions, enemy types, biome effects, or specific item properties.
-    - **Purpose:** The primary state for most items in active use. Players constantly manage this percentage.
-- **100% Quality (Pristine):**
-    - **Effect:** The item provides its **maximum potential stats** (e.g., +100% power, +50% defense, etc.).
-    - **Degradation:** The item **will degrade over time** with use, but potentially at a slightly slower rate than lower-quality items, or it might have a "grace period" before degradation begins.
-    - **Purpose:** Represents the item at its peak performance.
+## Item Modifiers 
+* **Broken:**
+    * _Effect:_ Item starts at 0% Quality. Provides negative stats.
+* **Cracked:**
+    * _Effect:_ Item starts at a low Quality (e.g., 1-15%). Minor stat penalty.
+* **Worn:**
+    * _Effect:_ Item starts at a moderate-low Quality (e.g., 16-35%). Noticeable stat penalty.
+* **Used:**
+    * _Effect:_ Item starts at a moderate Quality (e.g., 36-55%). Standard stat scaling.
+* **Sturdy:**
+    * _Effect:_ Item starts at a moderate-high Quality (e.g., 56-75%). Good stat scaling, potentially slightly slower degradation.
+* **Fabled:**
+    * _Effect:_ Item starts at a high Quality (e.g., 76-90%). Excellent stat scaling, potentially a minor bonus to Main Stat multiplier.
+* **Masterwork:**
+    * _Effect:_ Item starts at a very high Quality (e.g., 91-99%). Superior stat scaling, potentially a moderate bonus to Main Stat multiplier.
+* **Pristine:**
+    * _Effect:_ Item starts at 100% Quality. Provides maximum stats, potentially a significant bonus to Main Stat multiplier.
+
+## Minigames
+- **Blacksmithing** (Heavy & Medium Armor, Melee Weapons)
+	- **Core Mechanics:**
+	    - **Repairing Quality:** Players spend currency and materials (e.g., metal scraps, wood planks) to restore an item's Quality percentage.
+	        - _Cost:_ Scales with item rarity, current Quality, and desired Quality.
+	        - _Success Rate:_ Generally high for basic repairs.
+	    - **Reforging Modifiers:** Attempts to change the item's inherent modifier (e.g., "Worn" to "Fabled").
+	        - _Process:_ Requires rarer materials (e.g., ingots, rare wood), significant currency, and specific crafting stations (Forge).
+	        - _Minigame Trigger:_ Initiates the **Reforging Minigame** upon player confirmation.
+	- **Reforging Minigame:**
+	    - **Objective:** Successfully guide a "progress bar" or "target zone" to achieve the desired outcome.
+	    - **Phases:**
+	        1. **Stabilization:** A quick-time event (QTE) or timing-based click to stabilize the item's base integrity.
+	            - _Success:_ Locks in the current Quality.
+	            - _Failure:_ May slightly reduce Quality or increase the cost of the next phase.
+	        2. **Infusion:** A "moving target" minigame. Players must click or hold a button when a cursor passes over a "sweet spot" representing the desired modifier type.
+	            - **Success:** Landing in the sweet spot increases the chance of rolling the desired modifier. Multiple successes might be needed for higher-tier modifiers.
+	            - **Partial Success:** Landing near the sweet spot might grant a modifier, but a lesser one.
+	            - **Failure:** Missing the sweet spot entirely can lead to:
+	                - **Minor Setback:** Rolls a less desirable modifier.
+	                - **Quality Degradation:** Item's Quality drops significantly.
+	                - **Material Loss:** Some or all invested materials are consumed.
+	        3. **Imbuement:** A final phase (e.g., hold and release, or click to finish) that solidifies the new modifier.
+	    - **Racial Bonuses:** Some races may receive boosts when working with specific gear types. For Blacksmithing, this might apply to races with a natural affinity for heavy armor or weapons.
+
+- **Arcane Weaving** (Magic-Based Items: Robes, Staves, Wands, Amulets, Rings)
+	- **Core Mechanics:**
+	    - **Restoring Attunement:** Players spend currency and magical reagents (e.g., arcane dust, essence shards) to restore an item's Quality percentage.
+	        - _Cost:_ Scales with item rarity, current Quality, and desired Quality.
+	        - _Success Rate:_ Generally high for basic restoration.
+	    - **Enchanting Modifiers:** Attempts to change the item's inherent modifier (e.g., "Worn" to "Fabled").
+	        - _Process:_ Requires rarer magical components (e.g., enchanted threads, rare gems), significant currency, and specific crafting stations (Arcane Loom, Altar of Enchantment).
+	        - _Minigame Trigger:_ Initiates the **Enchanting Minigame** upon player confirmation.
+	- **Enchanting Minigame:**
+	    - **Objective:** Successfully guide arcane energies to imbue the item with a new property.
+	    - **Phases:**
+	        1. **Channeling:** A rhythm-based minigame (e.g., tapping in time with pulsing energy) to establish a stable flow of magic.
+	            - _Success:_ Establishes a stable magical conduit.
+	            - _Failure:_ May cause a minor backlash, reducing Quality or increasing reagent cost.
+	        2. **Weaving:** A pattern-matching or tracing minigame. Players must accurately trace or replicate a magical sigil or pattern that appears on screen.
+	            - **Success:** Accurately tracing the pattern increases the chance of rolling the desired modifier. Complex patterns are needed for higher-tier modifiers.
+	            - **Partial Success:** Minor inaccuracies might still yield a modifier, but a lesser one.
+	            - **Failure:** Inaccurate tracing can lead to:
+	                - **Minor Setback:** Rolls a less desirable modifier.
+	                - **Magical Resonance:** Item's Quality drops significantly due to unstable energies.
+	                - **Reagent Dissipation:** Some or all invested reagents are consumed.
+	        3. **Binding:** A final phase (e.g., holding a button to "lock in" the energy) that solidifies the new modifier.
+	    - **Racial Bonuses:** Races with innate magical talent or affinity for arcane arts might receive bonuses in the Enchanting Minigame, such as a larger tracing area or a reduced chance of backlash.
+
+- **Leatherworking & Tailoring** (Light Armor, Cloaks, Gloves, Boots)
+	- **Core Mechanics:**
+	        - **Mending & Reinforcing:** Players spend currency and materials (e.g., leather strips, fine threads, patches) to restore an item's Quality percentage. This process can also involve adding minor, temporary buffs or durability enhancements.
+	        - _Cost:_ Scales with item rarity, current Quality, and desired Quality.
+	        - _Success Rate:_ Generally high for basic mending.
+	    - **Stitching Modifiers:** Attempts to change the item's inherent modifier (e.g., "Worn" to "Fabled"). This is often about re-purposing or enhancing the item's existing properties rather than fundamentally changing its magical essence.
+	        - _Process:_ Requires rarer materials (e.g., enchanted leather, shadow silk), significant currency, and specific crafting stations (Master Tailor's Bench, Leatherworker's Table).
+	        - _Minigame Trigger:_ Initiates the **Stitching Minigame** upon player confirmation.
+	- **Stitching Minigame:**
+	        - **Objective:** Precisely stitch or patch the item to enhance its properties.
+	    - **Phases:**
+	        1. **Pattern Alignment:** A puzzle-like phase where players must rotate and fit geometric shapes representing the new stitching pattern.
+	            - _Success:_ Correctly aligns the pattern, preparing for stitching.
+	            - _Failure:_ Misalignment may require extra materials to correct or reduce the effectiveness of the final modifier.
+	        2. **Precision Stitching:** A "follow the line" minigame with a cursor. Players must keep the cursor on a designated path, avoiding straying too far.
+	            - **Success:** Keeping the cursor on the path increases the chance of rolling the desired modifier. The steadier the hand, the better the outcome.
+	            - **Partial Success:** Minor deviations might result in a less desirable modifier.
+	            - **Failure:** Straying too far can lead to:
+	                - **Minor Setback:** Rolls a less desirable modifier.
+	                - **Thread Snapping:** Item's Quality drops significantly.
+	                - **Material Waste:** Some or all invested materials are consumed.
+	        3. **Finishing Touches:** A final quick click or hold to secure the stitches and finalize the modifier.
+	    - **Special Mechanic for Robes/Cloaks:**
+	        - **"Shadow Stitching" / "Whisper Threading":** For items like cloaks and robes, this minigame can have a unique phase focused on incorporating stealth or illusionary properties. This might involve a phase where players must _avoid_ certain "detection zones" on the screen, or a phase where they must perfectly time button presses to create "silent" stitches. Success here could lead to modifiers that enhance stealth, movement speed, or provide minor illusionary effects.
+	    - **Racial Bonuses:** Races with natural dexterity or affinity for stealth and agility might receive bonuses in the Stitching Minigame, particularly for light armor and cloaks.
+## Items
+- Armor
+	- **Light Armor:**
+	- **Heavy Armor:**
+	- **Robe:**
+	- **Cloak:**
+	- **Gloves:**
+	- **Boots:**
+	- **Helmet:**
+	- **Pauldrons:**
+
+- Accessories
+	- **Ring:**
+	- **Amulet:**
+	- **Belt:**
+	- **Bracers:**
+
+- Weapons
+	- **Melee:**
+	    - _Dagger:_
+	    - _Sword:_
+	    - _Axes:_
+	    - _Pike:_
+
+	- **Ranged:**
+	    - _Bow:_
+	    - _Crossbow:_
+
+	- **Defense:**
+	    - _Shield:_
+	    - _Heavy Shield:_
+
+	- **Books**
+		- _Cleric:_
+		- _Healing:_
+		- _Scrolls:_
+
+	- **Staff:**
+	    - _Magic:_
+	    - _Healing:_
+	    - _Necromancy:_
