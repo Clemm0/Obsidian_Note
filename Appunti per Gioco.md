@@ -323,7 +323,7 @@ Placeholder
 	        - +15% Survival Skill Efficiency (WIS/STR)
 	        - +10% Crafting Speed (INT/STR)
 	        - +5% Damage Resistance (Physical) (CON)
-	        - **Starting Ability:** _"Endure the Elements"_ – Reduces environmental damage effects by 50% for 1 minute (Cooldown: 5 minutes).
+	        - **Starting Ability:** _"Endure the Elements"_ - Reduces environmental damage effects by 50% for 1 minute (Cooldown: 5 minutes).
 	        - +1 WIS, +1 STR
 	- _Master Specialization:_ **"Warden"**
 	    - _Effect:_ You have become a pillar of strength for your community, capable of defending it against any threat.
@@ -331,7 +331,7 @@ Placeholder
 	        - +20% Health Regeneration (CON)
 	        - +15% Damage Resistance (All) (CON)
 	        - +10% Construction Speed (INT)
-	        - **Master Ability:** _"Unbreakable"_ – Grants immunity to Knockdown and Stun effects for 5 seconds (Cooldown: 3 minutes).
+	        - **Master Ability:** _"Unbreakable"_ - Grants immunity to Knockdown and Stun effects for 5 seconds (Cooldown: 3 minutes).
 	        - +1 CON
 - **Scholar**
 	- _Description:_ The Scholar is a seeker of knowledge, a decipherer of secrets, and a wielder of arcane or esoteric power. They delve into ancient tomes, unravel mystical puzzles, and unlock the hidden truths of the world. Whether through rigorous study, alchemy, or raw magical talent, the Scholar’s mind is their greatest weapon.
@@ -341,7 +341,7 @@ Placeholder
 	        - +20% Mana Regeneration (INT/WIS)
 	        - +10% Spell Power (INT)
 	        - +5% Resistance to Arcane/Elemental Damage (WIS)
-	        - **Starting Ability:** _"Arcane Insight"_ – Reveals hidden magical auras and clues in your vicinity for 30 seconds (Cooldown: 2 minutes).
+	        - **Starting Ability:** _"Arcane Insight"_ - Reveals hidden magical auras and clues in your vicinity for 30 seconds (Cooldown: 2 minutes).
 	        - +1 INT, +1 WIS
 	- _Master Specialization:_ **"Archmage"**
 	    - _Effect:_ You have mastered the arcane arts, wielding power that can reshape reality itself.
@@ -349,7 +349,7 @@ Placeholder
 	        - +25% Spell Power (INT)
 	        - +15% Mana Efficiency (INT)
 	        - +10% Resistance to Arcane/Elemental Damage (WIS)
-	        - **Master Ability:** _"Spellweave"_ – Combine two spells into a single, more potent effect (Cooldown: 5 minutes).
+	        - **Master Ability:** _"Spellweave"_ - Combine two spells into a single, more potent effect (Cooldown: 5 minutes).
 	        - +1 INT
 - **Mercenary**
 	- _Description:_ The Mercenary is a warrior for hire, a master of combat, and a survivor of the battlefield. They are equally at home in a skirmish, a siege, or a duel, relying on skill, strategy, and sheer grit to overcome their foes. Whether fighting for gold, honor, or survival, the Mercenary’s blade (or fists) is their livelihood.
@@ -359,7 +359,7 @@ Placeholder
 	        - +10% Melee Damage (STR/DEX)
 	        - +5% Dodge Chance (DEX)
 	        - +5% Critical Hit Chance (STR/DEX)
-	        - **Starting Ability:** _"Combat Reflexes"_ – Grants +10% Dodge Chance for 10 seconds (Cooldown: 1 minute).
+	        - **Starting Ability:** _"Combat Reflexes"_ - Grants +10% Dodge Chance for 10 seconds (Cooldown: 1 minute).
 	        - +1 STR, +1 DEX
 	- _Master Specialization:_ **"Warlord"**
 	    - _Effect:_ You have become a legendary warrior, inspiring allies and striking fear into your enemies.
@@ -367,7 +367,7 @@ Placeholder
 	        - +20% Melee Damage (STR/DEX)
 	        - +15% Critical Hit Chance (STR/DEX)
 	        - +10% Damage Resistance (Physical) (CON)
-	        - **Master Ability:** _"Battle Cry"_ – Inspire nearby allies, granting them +15% Attack Speed for 15 seconds (Cooldown: 3 minutes).
+	        - **Master Ability:** _"Battle Cry"_ - Inspire nearby allies, granting them +15% Attack Speed for 15 seconds (Cooldown: 3 minutes).
 	        - +1 STR
 - **Nomad**
 	- _Description:_ The Nomad is a wanderer, a trader, and a survivor of the open road. They thrive in the wilds, navigating by the stars, the wind, and the land itself. Whether it’s traversing deserts, jungles, or frozen tundras, the Nomad’s adaptability and keen senses make them a master of travel and exploration.
@@ -377,7 +377,7 @@ Placeholder
 	        - +15% Movement Speed (DEX)
 	        - +10% Survival Skill Efficiency (WIS)
 	        - +5% Stealth (DEX)
-	        - **Starting Ability:** _"Pathfinder"_ – Reveals the safest path through treacherous terrain for 30 seconds (Cooldown: 2 minutes).
+	        - **Starting Ability:** _"Pathfinder"_ - Reveals the safest path through treacherous terrain for 30 seconds (Cooldown: 2 minutes).
 	        - +1 DEX, +1 WIS
 	- _Master Specialization:_ **"Pathfinder"**
 	    - _Effect:_ You have become a legendary explorer, capable of traversing any environment and uncovering hidden paths.
@@ -385,7 +385,7 @@ Placeholder
 	        - +20% Movement Speed (DEX)
 	        - +15% Survival Skill Efficiency (WIS)
 	        - +10% Stealth (DEX)
-	        - **Master Ability:** _"Uncharted Path"_ – Reveals all hidden paths and secrets in a 50-meter radius for 1 minute (Cooldown: 5 minutes).
+	        - **Master Ability:** _"Uncharted Path"_ - Reveals all hidden paths and secrets in a 50-meter radius for 1 minute (Cooldown: 5 minutes).
 	        - +1 DEX
 - **Outcast**
 	- _Description:_ The Outcast is a shadow, a trickster, and a survivor of the fringes of society. They thrive in the dark, whether it’s the back alleys of a city, the depths of a dungeon, or the hidden corners of the world. Whether through stealth, deception, or sheer audacity, the Outcast thrives where others fear to tread.
@@ -395,7 +395,7 @@ Placeholder
 	        - +15% Stealth (DEX)
 	        - +10% Critical Hit Chance (DEX)
 	        - +5% Evasion (DEX)
-	        - **Starting Ability:** _"Shadowstep"_ – Teleport to a nearby shadowy area, avoiding detection for 5 seconds (Cooldown: 1 minute).
+	        - **Starting Ability:** _"Shadowstep"_ - Teleport to a nearby shadowy area, avoiding detection for 5 seconds (Cooldown: 1 minute).
 	        - +1 DEX
 	- _Master Specialization:_ **"Phantom"**
 	    - _Effect_: You have become a master of the shadows, able to strike unseen and vanish without a trace.
@@ -403,7 +403,7 @@ Placeholder
 	        - +20% Stealth (DEX)
 	        - +15% Critical Hit Chance (DEX)
 	        - +10% Evasion (DEX)
-	        - **Master Ability:** _"Vanish"_ – Become invisible for 10 seconds or until you attack (Cooldown: 3 minutes).
+	        - **Master Ability:** _"Vanish"_ - Become invisible for 10 seconds or until you attack (Cooldown: 3 minutes).
 	        - +1 DEX
 
 ## Player Stats
